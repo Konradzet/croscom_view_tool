@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CroscomViewTool::Renderer.copyright 'Konrad Zet', 'All rights reserved'
+```
 
 ## Development
 
